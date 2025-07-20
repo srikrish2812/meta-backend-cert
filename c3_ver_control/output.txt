@@ -1,0 +1,5 @@
+total 792
+drwxr-xr-x  4 abhay  staff     128 May  4 11:28 archive
+-rw-r--r--@ 1 abhay  staff  405266 Apr 25 01:26 github_git_cheatsheet.pdf
+-rw-r--r--  1 abhay  staff       0 May  4 12:08 output.txt
+drwxr-xr-x  2 abhay  staff      64 Apr 26 01:43 projects

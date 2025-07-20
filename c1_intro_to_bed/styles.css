@@ -1,0 +1,15 @@
+p.desc1{
+    text-decoration: underline red dotted 3px;
+}
+
+#header1{
+    color: green;
+    padding: 10px;
+}
+#blog > h1 {
+    color: blueviolet;
+}
+
+a:hover{
+    color: green;
+}
