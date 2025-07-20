@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+c1_intro_to_bed/.env
+c2_prog_in_py/.env
+c3_ver_control/.env
+c5_django/.env
